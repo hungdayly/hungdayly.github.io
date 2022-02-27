@@ -14,7 +14,7 @@ Mỗi phiên bản đặc tả kỹ thuật mới được phát hành hàng nă
 
 **MDN (Mozilla) JavaScript Reference** là hướng dẫn chính với các ví dụ và thông tin khác. Thật tuyệt khi nhận được thông tin chuyên sâu về các chức năng, phương thức ngôn ngữ riêng lẻ, ...
 
-    Chúng ta có thể tìm thấy nó tại [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
+Chúng ta có thể tìm thấy nó tại [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
 
 Mặc dù vậy, tốt nhất bạn nên sử dụng tìm kiếm trên Internet để thay thế. Chỉ cần sử dụng từ khóa "MDN [thuật ngữ]" trong truy vấn, ví dụ: [https://google.com/search?q=MDN+parseInt](https://google.com/search?q=MDN+parseInt) để tìm kiếm hàm `parseInt`.
 
