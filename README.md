@@ -6,7 +6,7 @@
 
 1.1. [Giới thiệu về JavaScript](js-part-1/introduction-to-javascript.md)
 
-1.2. Hướng dẫn sử dụng và đặc tả kỹ thuật
+1.2. [Hướng dẫn sử dụng và đặc tả kỹ thuật](js-part-1/manuals-and-specifications.md)
 
 1.3. Trình soạn thảo
 
